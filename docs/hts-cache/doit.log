@@ -1,0 +1,8 @@
+http://geropotamos-oikistiki.gr/ -O "./websites/demo" -%v
+File generated automatically on Mon, 16 Dec 2024 19:22:48, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

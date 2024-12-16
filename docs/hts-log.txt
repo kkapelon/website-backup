@@ -1,0 +1,177 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Dec 2024 19:22:48 at http://geropotamos-oikistiki.gr/
+(winhttrack http://geropotamos-oikistiki.gr/ -O "./websites/demo" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:23:19	Error: 	"Not Found" (404) at link geropotamos-oikistiki.gr/images/btn-arrow.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/testi-baloon.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/fancybox_sprite.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/loading_lightbox.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/blank.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:19	Warning: 	Unexpected socket error during pre-loop
+19:23:19	Warning: 	Unexpected socket error during pre-loop
+19:23:19	Warning: 	Unexpected socket error during pre-loop
+19:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/fancy_overlay.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/loading_slideshow.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/camera_skins.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/slideshow/slide-overlay.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:20	Warning: 	Unexpected socket error during pre-loop
+19:23:20	Warning: 	Unexpected socket error during pre-loop
+19:23:20	Warning: 	Unexpected socket error during pre-loop
+19:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/search_btn.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/link-zoom.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/link-url.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/link-video.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:20	Warning: 	Unexpected socket error during pre-loop
+19:23:20	Warning: 	Unexpected socket error during pre-loop
+19:23:20	Warning: 	Unexpected socket error during pre-loop
+19:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/link-more.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/more_arrow.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/carousel_nav.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:20	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/pagetitle_star.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/breadcrumb_line.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/featured_icon.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/icon-author.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/icon-tag.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/icon-comment.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/logo_dg.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/loading_tweet.gif (from geropotamos-oikistiki.gr/css/style.css)
+19:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/slideshow/bg_metro_blue.jpg (from geropotamos-oikistiki.gr/css/noscript.css)
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:21	Warning: 	Unexpected socket error during pre-loop
+19:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/sample_images/noscript_map.jpg (from geropotamos-oikistiki.gr/css/noscript.css)
+19:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/js/jquery.flexslider-min.js (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/articles/index.php?langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/profile/index.php?langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:22	Warning: 	Unexpected socket error during pre-loop
+19:23:22	Warning: 	Unexpected socket error during pre-loop
+19:23:22	Warning: 	Unexpected socket error during pre-loop
+19:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/breadcrumb_home.png (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/market/articles/list.php?cat=1916&langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/js/jquery.isotope.min.js (from geropotamos-oikistiki.gr/market/list.php?cat=2305&langid=45)
+19:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/css/custom.css (from geropotamos-oikistiki.gr/articles/list.php?cat=1916&langid=45)
+19:23:22	Warning: 	Unexpected socket error during pre-loop
+19:23:22	Warning: 	Unexpected socket error during pre-loop
+19:23:22	Warning: 	Unexpected socket error during pre-loop
+19:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/js/contact-form.js (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/js/jquery.googlemaps1.01.js (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/icons/icon123.png (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/icons/icon108.png (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:23	Warning: 	Unexpected socket error during pre-loop
+19:23:23	Warning: 	Unexpected socket error during pre-loop
+19:23:23	Warning: 	Unexpected socket error during pre-loop
+19:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/sample_images/about.png (from geropotamos-oikistiki.gr/profile/index.php)
+19:23:23	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/testi-baloon.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/fancybox_sprite.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:23	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/loading_lightbox.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:23	Warning: 	Unexpected socket error during pre-loop
+19:23:23	Warning: 	Unexpected socket error during pre-loop
+19:23:23	Warning: 	Unexpected socket error during pre-loop
+19:23:23	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/blank.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:23	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/fancy_overlay.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/loading_slideshow.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:23	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/camera_skins.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:24	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/slideshow/slide-overlay.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:24	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/search_btn.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:24	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/link-zoom.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:24	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/link-url.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:24	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/link-video.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:24	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/link-more.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:24	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/more_arrow.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:24	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/carousel_nav.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:24	Warning: 	Unexpected socket error during pre-loop
+19:23:25	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/pagetitle_star.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:25	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/breadcrumb_line.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:25	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/featured_icon.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:25	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/icon-author.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:25	Warning: 	Unexpected socket error during pre-loop
+19:23:25	Warning: 	Unexpected socket error during pre-loop
+19:23:25	Warning: 	Unexpected socket error during pre-loop
+19:23:25	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/icon-tag.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:25	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/icon-comment.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:25	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/logo_dg.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:25	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/loading_tweet.gif (from geropotamos-oikistiki.gr/css/style.css)
+19:23:25	Warning: 	Unexpected socket error during pre-loop
+19:23:25	Warning: 	Unexpected socket error during pre-loop
+19:23:25	Warning: 	Unexpected socket error during pre-loop
+19:23:26	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/slideshow/bg_metro_blue.jpg (from geropotamos-oikistiki.gr/css/noscript.css)
+19:23:26	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/sample_images/noscript_map.jpg (from geropotamos-oikistiki.gr/css/noscript.css)
+19:23:26	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/js/jquery.flexslider-min.js (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:26	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/articles/index.php?langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:26	Warning: 	Unexpected socket error during pre-loop
+19:23:26	Warning: 	Unexpected socket error during pre-loop
+19:23:26	Warning: 	Unexpected socket error during pre-loop
+19:23:26	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/profile/index.php?langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:26	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/breadcrumb_home.png (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:26	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/market/articles/list.php?cat=1916&langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:26	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/js/jquery.isotope.min.js (from geropotamos-oikistiki.gr/market/list.php?cat=2305&langid=45)
+19:23:26	Warning: 	Unexpected socket error during pre-loop
+19:23:26	Warning: 	Unexpected socket error during pre-loop
+19:23:26	Warning: 	Unexpected socket error during pre-loop
+19:23:27	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/css/custom.css (from geropotamos-oikistiki.gr/articles/list.php?cat=1916&langid=45)
+19:23:27	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/js/contact-form.js (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:27	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/js/jquery.googlemaps1.01.js (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:27	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/icons/icon123.png (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:27	Warning: 	Unexpected socket error during pre-loop
+19:23:27	Warning: 	Unexpected socket error during pre-loop
+19:23:27	Warning: 	Unexpected socket error during pre-loop
+19:23:27	Warning: 	Retry after error -4 (Receive Error) at link geropotamos-oikistiki.gr/images/icons/icon108.png (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:27	Warning: 	Retry after error -4 (No data (connection closed)) at link geropotamos-oikistiki.gr/images/sample_images/about.png (from geropotamos-oikistiki.gr/profile/index.php)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/testi-baloon.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/fancybox_sprite.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/loading_lightbox.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/blank.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/fancy_overlay.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/loading_slideshow.gif (from geropotamos-oikistiki.gr/css/base.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/camera_skins.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/slideshow/slide-overlay.png (from geropotamos-oikistiki.gr/css/base.css)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/search_btn.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/link-zoom.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/link-url.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/link-video.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/link-more.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/more_arrow.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/carousel_nav.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/pagetitle_star.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/breadcrumb_line.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/featured_icon.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/icon-author.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/icon-tag.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/icon-comment.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/logo_dg.png (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/loading_tweet.gif (from geropotamos-oikistiki.gr/css/style.css)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/slideshow/bg_metro_blue.jpg (from geropotamos-oikistiki.gr/css/noscript.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/sample_images/noscript_map.jpg (from geropotamos-oikistiki.gr/css/noscript.css)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/js/jquery.flexslider-min.js (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/articles/index.php?langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/profile/index.php?langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/breadcrumb_home.png (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/market/articles/list.php?cat=1916&langid=45 (from geropotamos-oikistiki.gr/market/index.php?langid=45)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/js/jquery.isotope.min.js (from geropotamos-oikistiki.gr/market/list.php?cat=2305&langid=45)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/css/custom.css (from geropotamos-oikistiki.gr/articles/list.php?cat=1916&langid=45)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/js/contact-form.js (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/js/jquery.googlemaps1.01.js (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:27	Error: 	"Receive Error" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/icons/icon123.png (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/icons/icon108.png (from geropotamos-oikistiki.gr/contact/index.php?langid=45)
+19:23:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link geropotamos-oikistiki.gr/images/sample_images/about.png (from geropotamos-oikistiki.gr/profile/index.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 160 links scanned, 47 files written (384178 bytes overall) [396565 bytes received at 10168 bytes/sec]
+(38 errors, 128 warnings, 0 messages)
